@@ -1,1 +1,2 @@
 # Wine-Quality
+I create a multiclass classification problem where I predict wine quality given a set of inputs. The wine quality ranges from 0-10 (even though only 3-8 are present) and a few example inputs are density, pH level, and sulphates. I use multi layer perceptron's, random forests, and gradient boosting models to find the most accurate model. In the end, the best model was a random forest receiving an accuracy of 0.644.
